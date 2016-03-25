@@ -32,7 +32,8 @@
         "pharinix": "1.09.x",
         "pharinix_mod_bootstrap_duallistbox": "3.0.2",
         "pharinix_mod_bootstrapvalidator": "0.5.2",
-        "pharinix_mod_bootstrap_modal": "2.2.6"
+        "pharinix_mod_bootstrap_modal": "2.2.6",
+        "pharinix_mod_bootstrap3_dialog": "1.0.x"
     },
     "platforms":[
         "win",
