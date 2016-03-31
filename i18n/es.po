@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pharinix_mod_usergui/1.0\n"
+"Report-Msgid-Bugs-To: aaaaa976@gmail.com\n"
+"Last-Translator: Pedro Pelaez\n"
+"Language-Team: Pharinix\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-03-31T10:07:42+02:00\n"
+"PO-Revision-Date: 2016-03-31 10:26+0200\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:6
+#: usr/pharinix_mod_usergui/js/uauiAddUser.js:6
+#: usr/pharinix_mod_usergui/js/uauiEditMyAccount.js:4
+msgid "This value is not valid"
+msgstr "Valor no valido"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:16
+#: usr/pharinix_mod_usergui/js/uauiEditMyAccount.js:14
+msgid "The user name can not be empty."
+msgstr "El nombre de usuario no puede estar vacío."
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:23
+#: usr/pharinix_mod_usergui/js/uauiEditMyAccount.js:21
+msgid "The name can not be empty."
+msgstr "El nombre no puede ser vacío."
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:30
+msgid "Email required."
+msgstr "Se requiere e-mail."
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:33
+msgid "Email not valid."
+msgstr "Email no valido."
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:41
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:49
+#: usr/pharinix_mod_usergui/js/uauiEditMyAccount.js:29
+#: usr/pharinix_mod_usergui/js/uauiEditMyAccount.js:37
+msgid "The password and confirmation are different."
+msgstr "La clave y su confirmación son diferentes."
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:62
+msgid "Show all"
+msgstr "Mostrar todo"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:63
+msgid "Filter"
+msgstr "Filtrar"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:64
+msgid "Showing {0}"
+msgstr "Mostrando {0}"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:65
+msgid "Filtered"
+msgstr "Filtrado"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:65
+msgid "{0} of {1}"
+msgstr "{0} de {1}"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:66
+msgid "Move selected"
+msgstr "Mover selección"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:67
+msgid "Move all"
+msgstr "Mover todo"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:68
+msgid "Erase selected"
+msgstr "Borrar seleccionado"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:69
+msgid "Erase all"
+msgstr "Borrar todo"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:71
+msgid "Groups they belong"
+msgstr "Grupos a los que pertenecen"
+
+#: usr/pharinix_mod_usergui/js/uauiEditUser.js:72
+msgid "Available"
+msgstr "Disponible"
+
+#: usr/pharinix_mod_usergui/js/uauiAdminUsers.js:69
+msgid "Like you delete the user '%s' ?"
+msgstr "¿ Borrar el usuario '%s' ?"
+
+#: usr/pharinix_mod_usergui/js/uauiAddUser.js:30
+msgid "Email is required."
+msgstr "Email requerido."
+
+#: usr/pharinix_mod_usergui/js/uauiAddUser.js:33
+msgid "Email is wrong."
+msgstr "Email mal formado."
+
+#: usr/pharinix_mod_usergui/js/uauiAddUser.js:40
+msgid "Password is required."
+msgstr "Se requiere clave."
+
+#: usr/pharinix_mod_usergui/js/uauiAddUser.js:44
+#: usr/pharinix_mod_usergui/js/uauiAddUser.js:52
+msgid "Passwords are diferent."
+msgstr "Claves diferentes."
+
+#: usr/pharinix_mod_usergui/js/uauiAddUser.js:86
+msgid "Something go wrong:"
+msgstr "Algo fue mal:"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:16
+msgid "Edit user"
+msgstr "Editar usuario"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:24
+msgid "User not found..."
+msgstr "Usuario no encontrado..."
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:35
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:24
+msgid "General"
+msgstr "General"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:36
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:63
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:80
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:158
+msgid "Groups"
+msgstr "Grupos"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:45
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:50
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:33
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:37
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:32
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:37
+msgid "User name"
+msgstr "Nombre de usuario"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:57
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:62
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:44
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:48
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:44
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:49
+msgid "Name"
+msgstr "Nombre"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:69
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:56
+msgid "New password"
+msgstr "Nueva clave"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:73
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:85
+#: usr/pharinix_mod_usergui/bin/uauiLoginForm.php:32
+#: usr/pharinix_mod_usergui/bin/uauiLoginForm.php:33
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:55
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:59
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:70
+#: usr/pharinix_mod_usergui/bin/uauiNavLoginForm.php:33
+#: usr/pharinix_mod_usergui/bin/uauiNavLoginForm.php:34
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:60
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:72
+msgid "Password"
+msgstr "Clave"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:75
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:62
+msgid "Leave blank to preserve password."
+msgstr "Dejar en blanco para conservar clave."
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:81
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:68
+msgid "Retype password"
+msgstr "Reescribir clave"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:87
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:74
+msgid "To verify the new password you must write it two times."
+msgstr "Para verificar la nueva clave debe escribirla dos veces."
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:93
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:98
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:78
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:80
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:85
+msgid "eMail"
+msgstr "Correo"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:101
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:88
+msgid "Used to login."
+msgstr "Usado para entrar."
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:122
+msgid "Groups determine user permissions."
+msgstr "Los grupos determinan los permisos de usuario."
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:130
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:95
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:142
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:134
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:96
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:96
+msgid "Save"
+msgstr "Guardar"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:145
+msgid "Show edit user form."
+msgstr "Mostrar formulario de edición de usuario."
+
+#: usr/pharinix_mod_usergui/bin/uauiEditUser.php:147
+msgid "User ID to edit."
+msgstr "ID de usuario a editar."
+
+#: usr/pharinix_mod_usergui/bin/uauiInstall.php:32
+msgid "Install modulo requirements."
+msgstr "Instalar requisitos de modulo."
+
+#: usr/pharinix_mod_usergui/bin/uauiLoginForm.php:22
+#: usr/pharinix_mod_usergui/bin/uauiLoginForm.php:41
+#: usr/pharinix_mod_usergui/bin/uauiNavLoginForm.php:15
+#: usr/pharinix_mod_usergui/bin/uauiNavLoginForm.php:42
+msgid "Sign in"
+msgstr "Entrar"
+
+#: usr/pharinix_mod_usergui/bin/uauiLoginForm.php:28
+#: usr/pharinix_mod_usergui/bin/uauiLoginForm.php:29
+#: usr/pharinix_mod_usergui/bin/uauiNavLoginForm.php:29
+#: usr/pharinix_mod_usergui/bin/uauiNavLoginForm.php:30
+msgid "Email address"
+msgstr "Dirección de correo"
+
+#: usr/pharinix_mod_usergui/bin/uauiLoginForm.php:37
+#: usr/pharinix_mod_usergui/bin/uauiNavLoginForm.php:38
+msgid "Remember me"
+msgstr "Recordarme"
+
+#: usr/pharinix_mod_usergui/bin/uauiLoginForm.php:52
+msgid "Show login form."
+msgstr "Mostrar formulario de inicio de sesión."
+
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:11
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:24
+msgid "Add user"
+msgstr "Añadir usuario"
+
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:66
+msgid "Some password again"
+msgstr "La misma clave de nuevo"
+
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:72
+msgid "You must write it two times to validate the password."
+msgstr "Debe escribirlo dos veces para validar la clave."
+
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:82
+msgid "mail address"
+msgstr "dirección de correo"
+
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:85
+msgid "This mail will be used to login."
+msgstr "Este correo se usará para iniciar sesión."
+
+#: usr/pharinix_mod_usergui/bin/uauiAddUser.php:105
+msgid "Show a add user form."
+msgstr "Mostrar un formulario para añadir usuario."
+
+#: usr/pharinix_mod_usergui/bin/uauiNavLoginForm.php:56
+msgid "Show login form to integrate in navbar."
+msgstr "Muestra un formulario de inicio de sesión para integrar en barra de navegación."
+
+#: usr/pharinix_mod_usergui/bin/uauiGetCookies.php:14
+msgid "Get server cookies content."
+msgstr "Obtener contenido de cookies de servidor."
+
+#: usr/pharinix_mod_usergui/bin/uauiGetCookies.php:17
+msgid "Cookies content"
+msgstr "Contenido de cookies"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:23
+msgid "Profile"
+msgstr "Perfil"
+
+#: usr/pharinix_mod_usergui/bin/uauiEditMyAccount.php:106
+msgid "Show a form to edit the current user."
+msgstr "Mostrar un formulario para editar usuario actual."
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:19
+msgid "User list"
+msgstr "Lista de usuarios"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:24
+msgid "Add"
+msgstr "Añadir"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:54
+msgid "User record"
+msgstr "Ficha de usuario"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:61
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:76
+msgid "Mail"
+msgstr "Correo"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:65
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:84
+msgid "Registed"
+msgstr "Registrado"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:67
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:88
+msgid "Modified"
+msgstr "Modificado"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:100
+msgid "Edit this user"
+msgstr "Editar este usuario"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:109
+msgid "Delete this user"
+msgstr "Borrar este usuario"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:124
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:136
+msgid "Alert"
+msgstr "Aviso"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:130
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:143
+msgid "Ok"
+msgstr "Aceptar"
+
+#: usr/pharinix_mod_usergui/bin/uauiAdminUsers.php:172
+msgid "Show a user management form."
+msgstr "Mostrar un formulario de gestión de usuarios."
