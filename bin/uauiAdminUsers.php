@@ -161,7 +161,11 @@ if (!class_exists("commandUauiAdminUsers")) {
         protected static function groupsToTitle($ids, $grupos) {
             $resp = array();
             foreach ($ids as $id) {
-                $resp[] = '\''.$grupos[$id]["title"].'\'';
+                $title = __('<Unknowed>');
+                if(isset($grupos[$id])) {
+                    $title = $grupos[$id]["title"];
+                }
+                $resp[] = '\''.$title.'\'';
             }
             return join(", ", $resp);
         }
